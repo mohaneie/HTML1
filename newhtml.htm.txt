@@ -1,0 +1,10 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>web page</title>
+</head>
+<body>
+<h1>headline</h1>
+<p> this is paragraph</p>
+</body>
+</html>
